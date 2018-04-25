@@ -133,7 +133,7 @@ color:#464343;
 }
 
 @keyframes glow {
-0%,100%{ text-shadow:0 0 30px red; }
+0%,100%{ text-shadow:0 0 30px #7EC350; }
 25%{ text-shadow:0 0 30px orange; }
 50%{ text-shadow:0 0 30px forestgreen; }
 75%{ text-shadow:0 0 30px cyan; }
@@ -144,7 +144,7 @@ h1:nth-child(3){ transform:translateZ(10px);}
 h1:nth-child(4){ transform:translateZ(15px); }
 h1:nth-child(5){ transform:translateZ(20px); }
 h1:nth-child(6){ transform:translateZ(25px); }
-h1:nth-child(7){ transform:translateZ(30p.rock{animation:infinite 1s rock}
+h1:nth-child(7){ transform:translateZ(30px.rock{animation:infinite 1s rock}
 @keyframes rock {  0% {    transform: rotate(-1deg);  }
 50% {    transform: rotate(2deg);  }
 100% {    transform: rotate(-1deg);  }}x); }
@@ -382,7 +382,7 @@ margin-bottom: 30px
 
 .main-greeting {
 
-max-width: 400px;
+max-width: 800px;
 margin: auto;
 text-align: center;
 position: relative;
